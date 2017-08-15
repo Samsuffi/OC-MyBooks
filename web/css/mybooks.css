@@ -1,0 +1,27 @@
+@charset "utf-8";
+
+* {
+	border-sizing: border-box;
+}
+html {
+	font-size:62.5%;
+}
+
+body {
+	font-size: 1.6rem;
+	padding-top: 50px;
+}
+
+h2 {
+	font-weight: bold;
+}
+
+.bookTitle:hover, .bookTitle:focus{
+	text-decoration: none;
+}
+
+.footer {
+    border-top: 1px solid #ccc;
+    padding-top: 10px;
+    text-align: center;
+}
